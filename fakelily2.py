@@ -191,6 +191,6 @@ class LilyClient(discord.Client):
 
 default_channel = '342970124967346186' ##  '297260933124718593' = chatbotdev, '342970124967346186' = spoilerinotvanimango
 client = LilyClient() # Create our customized client
-client.run('NDAxMzc4ODUxMDgwNjM0Mzc5.DTpWXQ.MjHCpXHhhPOvw4jYlbZh53xFHg4')
+client.run('this is important i think')
 
 
